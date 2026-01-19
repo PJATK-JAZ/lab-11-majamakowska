@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Westeros.iml" filepath="$PROJECT_DIR$/Westeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/westeros-updater.main.iml" filepath="$PROJECT_DIR$/.idea/modules/westeros-updater.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/westeros-web-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/westeros-web-api.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1344602263/westeros-web-api.westeros-diagnostics-tools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1344602263/westeros-web-api.westeros-diagnostics-tools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1887511915/westeros-updater.westeros-diagnostics-tools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1887511915/westeros-updater.westeros-diagnostics-tools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1887511915/westeros-web-api.westeros-diagnostics-tools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1887511915/westeros-web-api.westeros-diagnostics-tools.main.iml" />
     </modules>
   </component>
 </project>
