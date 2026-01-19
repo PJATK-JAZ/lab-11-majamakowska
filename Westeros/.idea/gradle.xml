@@ -4,6 +4,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/westeros-data" />
         <option name="modules">
           <set>
@@ -29,7 +31,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/westeros-movies-client" />
-        <option name="gradleJvm" value="21" />
+        <option name="gradleJvm" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/westeros-movies-client" />
@@ -41,6 +43,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/westeros-data" />
+            <option value="$PROJECT_DIR$/westeros-diagnostics-tools" />
             <option value="$PROJECT_DIR$/westeros-movies-client" />
             <option value="$PROJECT_DIR$/westeros-updater" />
           </set>
